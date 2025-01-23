@@ -1,2 +1,2 @@
 # gif-images
-Creation gif images with python
+Criação de gif de imagens com python
